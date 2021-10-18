@@ -22,8 +22,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='pt2gif1.gif' title='Video Walkthrough' height='600' width='400' alt='Video Walkthrough' />
-<img src='pt2gif2.gif' title='Video Walkthrough' height='600' width='400' alt='Video Walkthrough' />
+<img src='pt2gif1.gif' title='Video Walkthrough' height='600' width='350' alt='Video Walkthrough' />
+<img src='pt2gif2.gif' title='Video Walkthrough' height='600' width='350' alt='Video Walkthrough' />
 
 
 ---
@@ -53,10 +53,10 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='gif1.gif' title='Video Walkthrough' height='600' width='400' alt='Video Walkthrough' />
+<img src='gif1.gif' title='Video Walkthrough' height='600' width='350' alt='Video Walkthrough' />
 
-<img src='gif2.gif' title='Video Walkthrough' height='600' width='400' alt='Video Walkthrough' />
+<img src='gif2.gif' title='Video Walkthrough' height='600' width='350' alt='Video Walkthrough' />
 
-<img src='gif3.gif' title='Video Walkthrough' height='600' width='400' alt='Video Walkthrough' />
+<img src='gif3.gif' title='Video Walkthrough' height='600' width='350' alt='Video Walkthrough' />
 
-<img src='gif4.gif' title='Video Walkthrough' height= '600' width='400' alt='Video Walkthrough' />
+<img src='gif4.gif' title='Video Walkthrough' height= '600' width='350' alt='Video Walkthrough' />
